@@ -1,6 +1,6 @@
 # Stomper
 
-[IN DEVELOPEMENT]
+#[IN DEVELOPEMENT]
 Stepper driver designed to be mounted on bottom of motors. Daisy chainable CAN BUS and power delivery. Closed loop encoder. 
 
-![image](https://github.com/user-attachments/assets/d0fd142e-adf2-4aae-8956-567b7aaaf926)
+![StepperMotorDriver](https://github.com/user-attachments/assets/dd6f1e8d-13c4-44a2-8968-db00a17fb7f2)
