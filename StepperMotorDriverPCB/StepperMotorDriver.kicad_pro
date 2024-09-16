@@ -490,7 +490,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/iskha/Downloads/",
+      "plot": "Manufacturing Files/",
       "pos_files": "Manufacturing Files/",
       "specctra_dsn": "",
       "step": "",
@@ -661,7 +661,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "C:/Users/iskha/Downloads/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
